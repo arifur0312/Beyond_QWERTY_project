@@ -1,0 +1,16 @@
+- [X] Task-1: Roadmap 
+  - [Lucid Charts](https://lucid.app/lucidspark/73f85af0-0c18-4d5d-8b83-efec584d5f36/edit?invitationId=inv_340102f1-fe3b-4a0f-bfbf-9c5ab18c2420)
+- [X] Task-2: Research on speech-to-text Models 
+- [X] Task-3: Python Certification
+  - [Python](https://www.hackerrank.com/certificates/8713868db695)
+- [X] Task-4: SQL Certification
+  - [SQL](https://www.hackerrank.com/certificates/1b4103ba82c6)
+- [X] Task-5: Python and SQL Interview questions
+  - [Colab](https://colab.research.google.com/drive/11BO4RiGAHL2Ea20i05khoOJX1fCtrSJy?usp=sharing)
+- [X] Task-6: Project
+  - Code :
+    - Frontend : [vaaniFill](./vaaniFill)
+    - Backend : [backend](./backend)
+  - [Deployment Link](https://beyond-qwerty.vercel.app)
+  - [Demo Link](https://drive.google.com/drive/folders/1Se5P3M0H2lLhc2FrhabsSIWj8r28BOpD?usp=sharing)
+
